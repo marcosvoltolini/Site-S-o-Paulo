@@ -20,6 +20,7 @@ nav {
 #noticias {
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
 .noticia{
     margin: 10 px;
@@ -32,4 +33,12 @@ nav {
 .img_noticia{
     width: 400px;
     border-radius: 25px;
+}
+footer {
+    padding: 10px;
+    text-align: center;
+
+    background-color: black;
+    color:  rgb(161, 32, 32);
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
