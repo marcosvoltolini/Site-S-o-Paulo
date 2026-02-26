@@ -33,12 +33,13 @@ nav {
 .img_noticia{
     width: 400px;
     border-radius: 25px;
+    
 }
 footer {
     padding: 10px;
     text-align: center;
 
     background-color: black;
-    color:  rgb(161, 32, 32);
+    color:  rgb(255, 255, 255);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
