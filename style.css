@@ -35,6 +35,31 @@ nav {
     border-radius: 25px;
     
 }
+#titulo{
+    text-align: center;
+    
+}
+.jogador{
+    border-left: 25px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+
+}
+#icon_jogador{
+    width: 150px;
+    border: 5px solid crimson;
+    margin: 10px;
+    border-radius: 5px;
+    
+    
+}
+#jogadores{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    background-color: black;
+}
+
 footer {
     margin-top: 10px;
     padding: 10px;
